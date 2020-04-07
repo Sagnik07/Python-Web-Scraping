@@ -1,0 +1,110 @@
+Team: abc
+
+Player1
+Name: Bilal Zalmai
+Country: Austria
+Ability: Batsman
+Fees: 50000
+
+Player2
+Name: Mohammad Saifuddin
+Country: Bangladesh
+Ability: Bowler
+Fees: 100000
+
+Player3
+Name: Glenn Maxwell
+Country: Australia
+Ability: All-Rounder
+Fees: 800000
+
+Player4
+Name: Peter Moor
+Country: Zimbabwe
+Ability: Batsman
+Fees: 50000
+
+Player5
+Name: Shadab Khan
+Country: Pakistan
+Ability: Bowler
+Fees: 800000
+
+Player6
+Name: Rashid Khan
+Country: Afghanistan
+Ability: All-Rounder
+Fees: 600000
+
+Player7
+Name: Sam Billings
+Country: England
+Ability: Batsman
+Fees: 100000
+
+Player8
+Name: Ajay Ratra
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player9
+Name: Virender Sehwag
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player10
+Name: Tinu Yohannan
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player11
+Name: Hemang Badani
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+
+Player12
+Name: Manish Pandey
+Country: India
+Ability: Batsman
+Fees: 300000
+
+Player13
+Name: Aashish Kapoor
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player14
+Name: Venkatesh Prasad
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player15
+Name: Varun Aaron
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player16
+Name: Karun Nair
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player17
+Name: Rahul Dravid
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player18
+Name: Abey Kuruvilla
+Country: India
+Ability: Bowler
+Fees: 400000
+

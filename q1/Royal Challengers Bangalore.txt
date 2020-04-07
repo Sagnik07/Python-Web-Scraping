@@ -1,0 +1,110 @@
+Team: Royal Challengers Bangalore
+
+Player1
+Name: Corey Anderson
+Country: New Zealand
+Ability: Batsman
+Fees: 100000
+
+Player2
+Name: Sunil Narine
+Country: West Indies
+Ability: Bowler
+Fees: 500000
+
+Player3
+Name: Sabbir Rahman
+Country: Bangladesh
+Ability: All-Rounder
+Fees: 200000
+
+Player4
+Name: Ben Cooper
+Country: Netherlands
+Ability: Batsman
+Fees: 400000
+
+Player5
+Name: Samiullah Shinwari
+Country: Afghanistan
+Ability: Bowler
+Fees: 100000
+
+Player6
+Name: Max O
+Country: Netherlands
+Ability: All-Rounder
+Fees: 300000
+
+Player7
+Name: Jos Buttler
+Country: England
+Ability: Wicket Keeper
+Fees: 500000
+
+Player8
+Name: Washington Sundar
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player9
+Name: Nikhil Chopra
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player10
+Name: Praveen Kumar
+Country: India
+Ability: Wicket Keeper
+Fees: 600000
+
+Player11
+Name: Mayank Agarwal
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player12
+Name: Jayant Yadav
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player13
+Name: Vijay Shankar
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player14
+Name: Ramesh Powar
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player15
+Name: Murali Kartik
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player16
+Name: V. R. V. Singh
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player17
+Name: Dodda Ganesh
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player18
+Name: Bhuvneshwar Kumar
+Country: India
+Ability: Batsman
+Fees: 600000
+

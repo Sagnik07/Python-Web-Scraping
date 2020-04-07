@@ -1,0 +1,110 @@
+Team: Kings XI Punjab
+
+Player1
+Name: Shoaib Malik
+Country: Pakistan
+Ability: Batsman
+Fees: 500000
+
+Player2
+Name: Mohammad Amir
+Country: Pakistan
+Ability: Bowler
+Fees: 600000
+
+Player3
+Name: Kyle Coetzer
+Country: Scotland
+Ability: All-Rounder
+Fees: 400000
+
+Player4
+Name: AB de Villiers
+Country: South Africa
+Ability: Wicket Keeper
+Fees: 700000
+
+Player5
+Name: Hamilton Masakadza
+Country: Zimbabwe
+Ability: Batsman
+Fees: 500000
+
+Player6
+Name: Mohammad Hafeez
+Country: Pakistan
+Ability: Bowler
+Fees: 100000
+
+Player7
+Name: Mahmudullah
+Country: Bangladesh
+Ability: All-Rounder
+Fees: 800000
+
+Player8
+Name: Shikhar Dhawan
+Country: India
+Ability: Batsman
+Fees: 700000
+
+Player9
+Name: Rajesh Chauhan
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player10
+Name: Krunal Pandya
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player11
+Name: Shahbaz Nadeem
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player12
+Name: Yuvraj Singh
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player13
+Name: Vijay Dahiya
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player14
+Name: MS Dhoni
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player15
+Name: Sadagoppan Ramesh
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player16
+Name: Gautam Gambhir
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player17
+Name: Saba Karim
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player18
+Name: Sameer Dighe
+Country: India
+Ability: Bowler
+Fees: 100000
+

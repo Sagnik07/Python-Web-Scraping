@@ -1,0 +1,110 @@
+Team: Kolkata Knight Riders
+
+Player1
+Name: Eoin Morgan
+Country: England
+Ability: Batsman
+Fees: 700000
+
+Player2
+Name: Sean Williams
+Country: Zimbabwe
+Ability: Bowler
+Fees: 400000
+
+Player3
+Name: Danushka Gunathilaka
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 300000
+
+Player4
+Name: Mark Boucher
+Country: South Africa
+Ability: Wicket Keeper
+Fees: 600000
+
+Player5
+Name: Colin de Grandhomme
+Country: New Zealand
+Ability: Batsman
+Fees: 200000
+
+Player6
+Name: Ashton Agar
+Country: Australia
+Ability: Bowler
+Fees: 300000
+
+Player7
+Name: Isuru Udana
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 600000
+
+Player8
+Name: Harvinder Singh
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player9
+Name: S. Sreesanth
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player10
+Name: Amit Mishra
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player11
+Name: Parthiv Patel
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player12
+Name: KL Rahul
+Country: India
+Ability: Batsman
+Fees: 800000
+
+Player13
+Name: MSK Prasad
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player14
+Name: Vinay Kumar
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player15
+Name: Jasprit Bumrah
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player16
+Name: Robin Singh
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player17
+Name: Abhimanyu Mithun
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player18
+Name: Murali Vijay
+Country: India
+Ability: Batsman
+Fees: 500000
+

@@ -1,0 +1,110 @@
+Team: Delhi Capitals
+
+Player1
+Name: Liton Das
+Country: Bangladesh
+Ability: Batsman
+Fees: 400000
+
+Player2
+Name: George Dockrell
+Country: Ireland
+Ability: Bowler
+Fees: 500000
+
+Player3
+Name: Joe Root
+Country: England
+Ability: All-Rounder
+Fees: 500000
+
+Player4
+Name: Adam Gilchrist
+Country: Australia
+Ability: Wicket Keeper
+Fees: 800000
+
+Player5
+Name: Tom Bruce
+Country: New Zealand
+Ability: Batsman
+Fees: 50000
+
+Player6
+Name: Pieter Seelaar
+Country: Netherlands
+Ability: Bowler
+Fees: 500000
+
+Player7
+Name: Patrick Matautaava
+Country: Vanuatu
+Ability: All-Rounder
+Fees: 50000
+
+Player8
+Name: Vivek Razdan
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player9
+Name: Devang Gandhi
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player10
+Name: Shiv Sunder Das
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player11
+Name: Sourav Ganguly
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player12
+Name: Umesh Yadav
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player13
+Name: Debashish Mohanty
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player14
+Name: Javagal Srinath
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player15
+Name: Hardik Pandya
+Country: India
+Ability: Bowler
+Fees: 300000
+
+Player16
+Name: Naman Ojha
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player17
+Name: Subroto Banerjee
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player18
+Name: Ajinkya Rahane
+Country: India
+Ability: Batsman
+Fees: 400000
+

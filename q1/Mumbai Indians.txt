@@ -1,0 +1,110 @@
+Team: Mumbai Indians
+
+Player1
+Name: Martin Guptill
+Country: New Zealand
+Ability: Batsman
+Fees: 700000
+
+Player2
+Name: Lakshan Sandakan
+Country: Sri Lanka
+Ability: Bowler
+Fees: 400000
+
+Player3
+Name: Mahedi Hasan
+Country: Bangladesh
+Ability: All-Rounder
+Fees: 50000
+
+Player4
+Name: Quinton de Kock
+Country: South Africa
+Ability: Wicket Keeper
+Fees: 400000
+
+Player5
+Name: Fakhar Zaman
+Country: Pakistan
+Ability: Batsman
+Fees: 700000
+
+Player6
+Name: Imran Tahir
+Country: South Africa
+Ability: Bowler
+Fees: 600000
+
+Player7
+Name: Mark Adair
+Country: Ireland
+Ability: All-Rounder
+Fees: 200000
+
+Player8
+Name: Pankaj Singh
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player9
+Name: Nilesh Kulkarni
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player10
+Name: Rishabh Pant
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player11
+Name: Jaydev Unadkat
+Country: India
+Ability: Wicket Keeper
+Fees: 100000
+
+Player12
+Name: Virat Kohli
+Country: India
+Ability: Batsman
+Fees: 800000
+
+Player13
+Name: Harbhajan Singh
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player14
+Name: Kuldeep Yadav
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player15
+Name: Pragyan Ojha
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player16
+Name: Iqbal Siddiqui
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player17
+Name: Munaf Patel
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player18
+Name: Deep Dasgupta
+Country: India
+Ability: Bowler
+Fees: 500000
+

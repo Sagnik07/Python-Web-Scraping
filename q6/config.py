@@ -1,0 +1,4 @@
+USERNAME = "vaibhav_mandir_111111"
+SPOTIPY_CLIENT_ID = ""
+SPOTIPY_CLIENT_SECRET = ""
+SPOTIPY_REDIRECT_URI = "http://127.0.0.1/callback"

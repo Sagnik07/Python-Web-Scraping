@@ -1,0 +1,110 @@
+Team: Chennai Super Kings
+
+Player1
+Name: Rizwan Cheema
+Country: Canada
+Ability: Batsman
+Fees: 50000
+
+Player2
+Name: Chris Morris
+Country: South Africa
+Ability: Bowler
+Fees: 600000
+
+Player3
+Name: Safyaan Sharif
+Country: Scotland
+Ability: All-Rounder
+Fees: 100000
+
+Player4
+Name: Kumar Sangakkara
+Country: Sri Lanka
+Ability: Wicket Keeper
+Fees: 700000
+
+Player5
+Name: Rohan Mustafa
+Country: United Arab Emirates
+Ability: Batsman
+Fees: 50000
+
+Player6
+Name: Fabian Allen
+Country: West Indies
+Ability: Bowler
+Fees: 300000
+
+Player7
+Name: Khawar Ali
+Country: Oman
+Ability: All-Rounder
+Fees: 500000
+
+Player8
+Name: Subramaniam Badrinath
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player9
+Name: M. Venkataramana
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player10
+Name: Robin Singh, Jr.
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player11
+Name: Hanuma Vihari
+Country: India
+Ability: Wicket Keeper
+Fees: 100000
+
+Player12
+Name: Vinod Kambli
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player13
+Name: Khaleel Ahmed
+Country: India
+Ability: Bowler
+Fees: 50000
+
+Player14
+Name: Vijay Yadav
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player15
+Name: Ravindra Jadeja
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player16
+Name: David Johnson
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player17
+Name: Sarandeep Singh
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player18
+Name: Shardul Thakur
+Country: India
+Ability: Bowler
+Fees: 500000
+
